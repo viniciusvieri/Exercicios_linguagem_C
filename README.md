@@ -1,2 +1,2 @@
 # Exercicios_linguagem_C
-Exercícios na linguagem C da disciplina 'Programação Estruturada'.
+Exercícios na linguagem C, feitos em disciplinas como 'Introdução à programação' e 'Programação estruturada'.
